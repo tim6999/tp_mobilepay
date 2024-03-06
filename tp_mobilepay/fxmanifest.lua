@@ -12,3 +12,8 @@ shared_scripts {
 server_scripts {
     'server/main.lua'
 }
+
+dependencies {
+    'ox_lib',
+    'lb-phone'
+}
